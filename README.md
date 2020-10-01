@@ -1,19 +1,19 @@
 # Learn-to-make-pull-request
 The motive of this repo is to make you comfortable in making your first commit and PR.
 
-1. Fork this repo (short form of repository), using the fork symbol ![picture|512x397](https://img.icons8.com/ios/2x/code-fork.png) on the right up corner.
+1. Fork this repo (short form of repository), using the fork symbol ![picture](https://img.icons8.com/ios/2x/code-fork.png) on the right up corner.
     Above action will add this repo to your github account.
     
 1.1 You can star ☆ this repo as well in order to follow the updates and help other community members.
 
-2. Now you just have to copy the url generated using ctrl+h command.
-   It will be somthing like : 
+2. Now you just have to copy the url generated using ctrl+l command.
+   It will be somthing like : https://github.com/<user_name>/Learn-to-make-pull-request
    
 3. Now open terminal in your system.
    Now change the current directory to 'Desktop' using cd command.
    
 4. In the terminal write :
-    git clone 
+    git clone  https://github.com/<user_name>/Learn-to-make-pull-request
     the above action will copy the whole directory into your local system.
     
 5. Currently you are in main branch, you have to make a new branch:
@@ -22,12 +22,13 @@ The motive of this repo is to make you comfortable in making your first commit a
     
 6. Add your name to Contributers.md file, wherever you wish (preferrably on the top).
 
-7. Now Add an image of any place which you like the most in the Memories folder.
+7. Now add your favourite image of any place which you like the most in the Memories folder.
 
-8. Write the name of the places in the Landmark folder.
+8. Write the name of the places in the Adventure folder.
     You can do the above two processes either manually by cut paste #or
     you can use cd command on terminal to mive to the directory in which you need to make changes, then
-    add those changes in the directory using : cp <path of file to copy> ~/Desktop/Learn-to-make-pull-request/<dir_name>
+    add those changes in the directory using : 
+    cp <path of file to copy> ~/Desktop/Learn-to-make-pull-request/<dir_name>
     
  9. After making all changes, just add all the files on the staging area using : 
     git add --all
