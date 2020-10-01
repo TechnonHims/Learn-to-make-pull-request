@@ -32,4 +32,4 @@ The motive of this repo is to make you comfortable in making your first commit a
   14. Write any comment you want related to changes you have made and finally click on commit.
   15. Now just wait for few minutes before you get a confirmation on making your first pull request(PR).
       # Congratulations you have made your first PR and you can do it on other repo as well.
-        You can make four PR in order to get cool goodies and a #hacktoberfest T-shirt from @digitalocean
+        You can make four PR in order to get cool goodies and a #hacktoberfest T-shirt from [@digitalocean](https://www.digitalocean.com/)
