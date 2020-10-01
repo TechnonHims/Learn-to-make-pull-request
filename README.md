@@ -1,10 +1,10 @@
 # Learn-to-make-pull-request
 The motive of this repo is to make you comfortable in making your first commit and PR.
 
-1. Fork this repo (short form of repository), using the fork symbol ![picture](https://img.icons8.com/ios/2x/code-fork.png) on the right up corner.
+1. Fork this repo (short form of repository), using the fork symbol ![picture](https://img.icons8.com/ios/2x/code-fork.png){ width=50% } on the right up corner.
     Above action will add this repo to your github account.
     
-1.1 You can star this repo as well in order to follow the updates and help other community members.
+1.1 You can star ☆ this repo as well in order to follow the updates and help other community members.
 
 2. Now you just have to copy the url generated using ctrl+h command.
    It will be somthing like : 
