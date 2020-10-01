@@ -34,5 +34,5 @@
   
 - Now just wait for few minutes before you get a confirmation on making your first pull request(PR).
   
-        Congratulations you have made your first PR and you can do it on other repo as well.
-        You can make four PR in order to get cool goodies and a [#hacktoberfest](https://hacktoberfest.digitalocean.com/) T-shirt from [@digitalocean](https://www.digitalocean.com/)
+## Congratulations you have made your first PR and you can do it on other repo as well.
+   You can make four PR in order to get cool goodies and a [#hacktoberfest](https://hacktoberfest.digitalocean.com/) T-shirt from [@digitalocean](https://www.digitalocean.com/)
