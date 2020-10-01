@@ -1,7 +1,7 @@
 # Learn-to-make-pull-request
 The motive of this repo is to make you comfortable in making your first commit and PR.
 
-1. Fork this repo (short form of repository), using the fork symbol on the right up corner.
+1. Fork this repo (short form of repository), using the fork symbol![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ffeathericons%2Ffeather%2Fissues%2F283&psig=AOvVaw1f0lTOVojFIeUNmGQ0Rgbs&ust=1601661787567000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi-_uH9k-wCFQAAAAAdAAAAABADg) on the right up corner.
     Above action will add this repo to your github account.
 2. Now you just have to copy the url generated using ctrl+h command.
    It will be somthing like : 
