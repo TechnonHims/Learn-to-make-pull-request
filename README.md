@@ -1,7 +1,7 @@
 # Learn-to-make-pull-request
 The motive of this repo is to make you comfortable in making your first commit and PR.
 
-1. Fork this repo (short form of repository), using the fork symbol ![picture](https://user-images.githubusercontent.com/3686790/61156320-bf9d1480-a4fb-11e9-91d2-68310af16671.png =25x25) on the right up corner.
+1. Fork this repo (short form of repository), using the fork symbol ![picture](https://img.icons8.com/ios/2x/code-fork.png) on the right up corner.
     Above action will add this repo to your github account.
     
 1.1 You can star this repo as well in order to follow the updates and help other community members.
@@ -48,4 +48,4 @@ The motive of this repo is to make you comfortable in making your first commit a
   15. Now just wait for few minutes before you get a confirmation on making your first pull request(PR).
   
       # Congratulations you have made your first PR and you can do it on other repo as well.
-        You can make four PR in order to get cool goodies and a (#hacktoberfest)(https://hacktoberfest.digitalocean.com/) T-shirt from [@digitalocean](https://www.digitalocean.com/)
+        You can make four PR in order to get cool goodies and a [#hacktoberfest](https://hacktoberfest.digitalocean.com/) T-shirt from [@digitalocean](https://www.digitalocean.com/)
