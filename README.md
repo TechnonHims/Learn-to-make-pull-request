@@ -7,13 +7,13 @@ The motive of this repo is to make you comfortable in making your first commit a
 1.1 You can star ☆ this repo as well in order to follow the updates and help other community members.
 
 2. Now you just have to copy the url generated using ctrl+l command.
-   It will be somthing like : `https://github.com/<user_name>/Learn-to-make-pull-request
+   It will be somthing like : `https://github.com/<user_name>/Learn-to-make-pull-request`
    
 3. Now open terminal in your system.
    Now change the current directory to 'Desktop' using cd command.
    
 4. In the terminal write :
-    `git clone  https://github.com/<user_name>/Learn-to-make-pull-request
+    `git clone  https://github.com/<user_name>/Learn-to-make-pull-request`
     the above action will copy the whole directory into your local system.
     
 5. Currently you are in main branch, you have to make a new branch:
