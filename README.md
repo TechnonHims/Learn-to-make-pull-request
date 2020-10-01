@@ -17,7 +17,7 @@ The motive of this repo is to make you comfortable in making your first commit a
     the above action will copy the whole directory into your local system.
     
 5. Currently you are in main branch, you have to make a new branch:
-    use command : git checkout -b <new_branch_name>
+    use command : `git checkout -b <new_branch_name>`
     Now you will be taken to a new branch, where you can make changes in the repo you have cloned.
     
 6. Add your name to Contributers.md file, wherever you wish (preferrably on the top).
@@ -28,21 +28,21 @@ The motive of this repo is to make you comfortable in making your first commit a
     You can do the above two processes either manually by cut paste #or
     you can use cd command on terminal to mive to the directory in which you need to make changes, then
     add those changes in the directory using : 
-    ~cp <path of file to copy> ~/Desktop/Learn-to-make-pull-request/<dir_name>
+    `cp <path of file to copy> ~/Desktop/Learn-to-make-pull-request/<dir_name>`
     
  9. After making all changes, just add all the files on the staging area using : 
-    ~git add --all
+    `git add --all`
     
  10. Now check the status of your branch that what are the changes you have made and if you need anything to review.
      This is a very important step before commiting to any repo, just to ensure that everytinh is right.
      
   11. Now you have to make the commit using :
-      ~git commit -m "I, <your_name> have made my first commit"
+      `git commit -m "I, <your_name> have made my first commit"`
       Now you are ready to push the changes made to this repo.
       
-  12. To push write : ~git push origin <new_branch_name>
+  12. To push write : `git push origin <new_branch_name>`
   
-  13. Go to your github page in the browser and click on "compare and merge"  option mentioned in green tab.
+  13. Go to your github page in the browser and click on "compare and pull request"  option mentioned in green tab.
   
   14. Write any comment you want related to changes you have made and finally click on commit.
   
