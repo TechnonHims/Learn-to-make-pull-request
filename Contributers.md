@@ -1,3 +1,3 @@
-- [Himanshu Pal]{TechnonHims}
-- [Yash Shukla]{Yash1256}
-- [Atharva Deshpande]{atharva01903}
+- [Himanshu Pal](https://github.com/TechnonHims)
+- [Yash Shukla](https://github.com/Yash1256)
+- [Atharva Deshpande](https://github.com/atharva01903)
