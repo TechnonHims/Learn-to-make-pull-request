@@ -3,3 +3,4 @@
     Start adding your favourite places from here :
 
 - New Delhi
+- Nashik
