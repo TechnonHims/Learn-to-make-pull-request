@@ -4,4 +4,5 @@
 - [Yash Shukla](https://github.com/Yash1256)
 - [Atharva Deshpande](https://github.com/atharva01903)
 - [Avinash Kethireddy](https://github.com/Avinashkethireddy)
+- [Kaushik Rishi](https://github.com/kaushik-rishi)
 # Thank you all!
